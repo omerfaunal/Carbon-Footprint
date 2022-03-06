@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "809745357694",
+    "project_id": "karbon-ayak-izi-a6255",
+    "storage_bucket": "karbon-ayak-izi-a6255.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809745357694:android:2f3c7db4da7902bfa1f12f",
+        "android_client_info": {
+          "package_name": "com.example.karbon_ayak_izi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809745357694-u93kb92a58sscagpi7pvrn1pqr15lbjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVyzk3LShx3autx-jGlSuecP-TOxX1iR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809745357694-u93kb92a58sscagpi7pvrn1pqr15lbjl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "809745357694-qjp276kpj7ask7mbuk89ta6uqi9cvj4d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.karbonAyakIzi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
